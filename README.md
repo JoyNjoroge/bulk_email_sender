@@ -32,7 +32,6 @@ This project is a **Python script for sending bulk emails (up to 100 recipients)
    USERNAME = "your-email@gmail.com"
    PASSWORD = "your-app-password"
 
-    ```python
     recipients = [
         "user1@example.com",
         "user2@example.com",
