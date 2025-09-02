@@ -31,11 +31,13 @@ This project is a **Python script for sending bulk emails (up to 100 recipients)
    FROM_EMAIL = "your-email@gmail.com"
    USERNAME = "your-email@gmail.com"
    PASSWORD = "your-app-password"
-recipients = [
-    "user1@example.com",
-    "user2@example.com",
-    # up to 100 recipients
-]
+
+    ```python
+    recipients = [
+        "user1@example.com",
+        "user2@example.com",
+        # up to 100 recipients
+    ]
 
 ## Example Screenshot
 
